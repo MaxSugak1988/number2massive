@@ -1,0 +1,24 @@
+.container{
+background-color: dimgray;
+display: flex;
+flex-direction: column-reverse;
+/* flex-direction: row; */
+/* flex-direction: row-reverse; */
+
+
+}
+.intro1{
+display: block;
+background-color: blue;
+}
+.intro2{
+display: block;
+background-color: brown;
+}
+.intro3{
+display: block;
+background-color: chartreuse;
+}
+.intro4{
+background-color: deepskyblue;
+}
